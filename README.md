@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&lines=I+break+things+on+purpose;Full+Stack+Developer;Building+cool+stuff" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bisswaa17&color=red" />
