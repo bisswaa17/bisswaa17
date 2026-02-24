@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=bisswaa17&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bisswaa17&color=red" />
+</p>
