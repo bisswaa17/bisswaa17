@@ -1,4 +1,6 @@
-## Hello👋 i'm Biswajit Tripathy 
+
+<h2 align="left"><img src="<img width="25" height="512" alt="person" src="https://github.com/user-attachments/assets/1ecab698-6d5c-4a33-97fd-8ff7a2292455" />
+" About Me :</h2>
 
 <!--
 **bisswaa17/bisswaa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&lines=I+break+things+on+purpose;Full+Stack+Developer;Building+cool+stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=30&lines=Hey+i'm+biswajit;;Building+cool+stuff" />
 </p>
 
 <p align="center">
