@@ -1,5 +1,5 @@
 
-##<h2 align="left">" 👨‍💻 :</h2>
+##<h2 align="left"> About me 👨‍💻 :</h2>
 
 <!--
 **bisswaa17/bisswaa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#BF00FF&size=30&lines=Hey+i'm+biswajit;Building+cool+stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=BC13FE&lines=Hey+I'm+Biswajit;Building+cool+stuff" />
 </p>
 
 <p align="center">
