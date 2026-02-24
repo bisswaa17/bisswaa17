@@ -1,5 +1,16 @@
 
-##<h2 align="left"> About me 👨‍💻 :</h2>
+
+#  Hey, I'm Biswajit 👨‍💻
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bisswaa17&color=red" />
+</p>
+
+## 🧠 About Me
+
+Just a dev figuring things out,
+fixing bugs ,and getting 
+1% better every single day 🚀
 
 <!--
 **bisswaa17/bisswaa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=BC13FE&lines=Hey+I'm+Biswajit;Building+cool+stuff" />
-</p>
+"Consistency beats motivation." 🔥
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bisswaa17&color=red" />
-</p>
